@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/knehal/LeetCode/tree/master/0001-two-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/knehal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/knehal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/knehal/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
