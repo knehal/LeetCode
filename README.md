@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/knehal/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/knehal/LeetCode/tree/master/0013-roman-to-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/knehal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/knehal/LeetCode/tree/master/0013-roman-to-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/knehal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -24,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/knehal/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/knehal/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
