@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/knehal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/knehal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/knehal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/knehal/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/knehal/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/knehal/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
